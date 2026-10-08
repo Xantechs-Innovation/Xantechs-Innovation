@@ -1,26 +1,25 @@
 <!-- Animated Banner (Glitch style like OmegaSL) -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Xantechs%20Innovation&width=1800&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%2C%20I'm%20XanDev&width=1800&height=300)](https://github.com/Akshay090/svg-banners)
 
-### 👋 Welcome to Xantechs Innovation
-Software & Mobile Engineering — Building high-performance digital solutions and modern experiences.
+### 👋 About Me
+Software & Mobile App Developer passionate about building high-performance applications and clean user experiences.
 
-- 🔭 Focus: Cross-platform mobile development, web apps & systems architecture
-- 💻 Core Tech: Dart/Flutter, TypeScript, React, Java, C#, and Modern Web
-- 💬 Connect with us for collaborations, projects, and tech consulting
-- 📫 Contact: Add your contact email or portfolio link here!
+- 🔭 Currently building: Full-stack & mobile solutions
+- 💻 Tech focus: Dart/Flutter, TypeScript/React, Java, and C#
+- 💬 Ask me about: Frontend architecture, API integrations, and app design
+- 📫 Reach me: Add your email or portfolio link here!
 
 ---
 
 ### 🌐 Socials & Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Xantechs-Innovation)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-### 💻 Technology Stack
-<!-- Languages & Frameworks -->
+### 💻 Tech Stack
+<!-- Languages & Frameworks based on your repositories -->
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,10 +39,10 @@ Software & Mobile Engineering — Building high-performance digital solutions an
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xantechs-Innovation&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xantechs-Innovation&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XanDev17&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XanDev17&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xantechs-Innovation&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanDev17&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -55,5 +54,5 @@ Software & Mobile Engineering — Building high-performance digital solutions an
 
 <!-- Profile Visitor Counter -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Xantechs-Innovation&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=XanDev17&icon=0&color=0" alt="Visitor Count" />
 </p>
