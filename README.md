@@ -1,77 +1,124 @@
-# Hi there, welcome to Xantechs Innovation! 👋 💡
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=111111,8B0000,FF0000&text=Xantechs%20Innovation&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20%7C%20Offline-First%20%7C%20Automation" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Flutter+%26+Mobile+App+Developer;Building+Offline-First+Products;Founder+of+Xantechs+Innovation" alt="Typing SVG" />
-</p>
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://xantechs-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Xantechs-FF0000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Xantechs+Innovation">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-2b2b2b?style=for-the-badge&logo=googleplay&logoColor=FF0000" alt="Google Play"/>
+  </a>
+  <a href="https://www.linkedin.com/in/xantechs-innovation-%F0%9F%92%A1-a7bba9395/">
+    <img src="https://img.shields.io/badge/-LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:alexasanteobeng07@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Xantechs-Innovation&style=for-the-badge&color=FF0000" alt="Profile Views" />
+</div>
 
-I am a Mobile Application & Full-Stack Developer creating offline-first, high-utility applications. I focus on building scalable software that solves real-world problems—from comprehensive retail management systems to privacy-focused utility tools. Backed by formal training in **System Analysis** and **Rapid Application Development**, I architect cross-platform systems for mobile, web, and desktop.
+## 🚀 About Me
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+privacy-first%2C+offline-capable+software.;Full-Stack+Mobile%2C+Web%2C+and+Desktop+Engineering." alt="Typing SVG" />
+</div>
 
-## 🚀 Featured Projects & Apps
+> **Building tools that work anywhere—software that respects your time, your data, and your money.**
 
-- 🛒 **[XanTechs POS](https://play.google.com/store/apps/details?id=com.xantechs.pos_store):** An offline-first retail management system built with Flutter and SQLite. Features include barcode scanning, instant receipt printing, Khata customer debt tracking, and end-to-end data encryption. *(Available on Google Play)*
-- 🔍 **XanScan (QR_OCR & PDF):** A high-utility toolkit integrating Google ML Kit and CameraX for on-device OCR text extraction, custom QR code generation, and instant PDF document compilation.
-- 🔗 **LinkVault:** A privacy-focused link management application designed for offline bookmarking and fast categorization using lightweight persistent local storage.
-- 🤖 **Sports Data Automation:** Developed asynchronous Python scrapers to extract and clean live football match telemetry, distributing structured updates via custom Telegram bot workflows.
-
-<br/>
+I am an independent product builder and Full-Stack Developer specializing in **Flutter**, **TypeScript**, and **Python**. I focus on designing scalable, offline-first software that solves real-world problems—from retail POS systems with local SQLite databases to Python-driven sports automation workflows. I handle everything from the first UI/UX wireframe to the final Google Play deployment.
 
 ## 🛠️ My Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-FF0000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-2b2b2b?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-2b2b2b?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-2b2b2b?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### Mobile & Desktop Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-FF0000?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-2b2b2b?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-2b2b2b?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-2b2b2b?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xamarin-2b2b2b?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-2b2b2b?style=for-the-badge&logo=electron&logoColor=white" />
-</p>
-
-### Frontend, Web & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Vite-FF0000?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-FF0000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-2b2b2b?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-2b2b2b?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-</p>
-
+### Core Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,ts,react,vite,sqlite,mysql,java,cs,html,css,androidstudio,github&perline=14" />
+</div>
 <br/>
+
+### Detailed Breakdown
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-FF0000?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-FF0000?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-FF0000?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-FF0000?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-2b2b2b?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-2b2b2b?style=flat-square&logo=electron&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Featured Projects & Apps
+
+### 🛒 XanTechs POS (Point of Sale)
+A 100% offline retail management system built with Flutter and SQLite. Features fast barcode scanning, automated PDF receipt rendering, and a localized "Khata" customer credit ledger supporting 37 languages.
+![Flutter](https://img.shields.io/badge/Flutter-FF0000?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-FF0000?style=flat-square&logo=sqlite&logoColor=white)
+[![Google Play](https://img.shields.io/badge/📱_View_on-Google_Play-121011?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.xantechs.pos_store)
+
+### 🔍 XanScan (QR, OCR & PDF Toolkit)
+A high-utility document scanner integrating Android CameraX and on-device Google ML Kit pipelines for zero-telemetry text extraction and custom QR generation.
+![Dart](https://img.shields.io/badge/Dart-2b2b2b?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-2b2b2b?style=flat-square&logo=android&logoColor=white)
+
+### 🤖 Sports Data Telegram Automations
+Asynchronous Python scrapers engineered to extract and clean live football match telemetry, distributing structured updates via custom Telegram bot workflows.
+![Python](https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=python&logoColor=white)
+
+---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xantechs-Innovation&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xantechs-Innovation&layout=compact&theme=dark&title_color=FF0000" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xantechs-Innovation&theme=dark&fire=FF0000&ring=FF0000" alt="GitHub Streak" width="100%" />
-</p>
-
-*(Note: Change the `username=Xantechs-Innovation` parameter in the URLs above to `username=kwesiwindsurf-crypto` depending on which account's activity graph you want to display!)*
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xantechs-Innovation&theme=radical" width="100%" />
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xantechs-Innovation&theme=radical" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xantechs-Innovation&theme=radical" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xantechs-Innovation&theme=radical&utcOffset=0" />
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xantechs-Innovation&theme=radical&fire=FF0000&ring=FF0000" alt="GitHub Streak" width="100%" />
+</p>
 
-## 📫 Let's Connect!
+---
 
-- **Portfolio:** [xantechs-portfolio.netlify.app](https://xantechs-portfolio.netlify.app/)
-- **LinkedIn:** [Xantechs Innovation](https://www.linkedin.com/in/xantechs-innovation-%F0%9F%92%A1-a7bba9395/)
-- **Google Play:** [View all my published apps](https://play.google.com/store/apps/developer?id=Xantechs+Innovation)
-- **Email:** alexasanteobeng07@gmail.com
+### 🎯 Strategic Ecosystem
+
+```mermaid
+mindmap
+  root((Xantechs
+  Innovation))
+    Mobile & Desktop
+      Flutter & Dart
+      Offline-First POS
+      Electron Utilities
+      CameraX / ML Kit
+    Automation & Data
+      Python Scrapers
+      Telegram Bots
+      SQLite Databases
+    Full-Stack Web
+      React & Vite
+      TypeScript Frontends
+      3D Web UI
+    Operations
+      App Store Optimization
+      Dropshipping
+      QA Play Store Testing
